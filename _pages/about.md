@@ -15,11 +15,11 @@ I primarily focus on tasks related to code intelligence, leveraging artificial i
 My research area is: __The integration of large language models and software engineering__, including __Code Generation__, __Code Search__, __Code Summarization.__
 
 # Publications
-1. **Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark** [preprint](https://arxiv.org/abs/2412.18573)
+1. **Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark** [[preprint](https://arxiv.org/abs/2412.18573)]<br>
     Dewu Zheng, Yanlin Wang, Ensheng Shi, Xilin Liu, Yuchi Ma, Hongyu Zhang, Zibin Zheng
-4. **HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation**（ICSE2025，CCF-A）
+4. **HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation**（ICSE2025，CCF-A）<br>
    Dewu Zheng, Yanlin Wang, Ensheng Shi, Ruikai Zhang, Yuchi Ma, Hongyu Zhang, Zibin Zheng
-5. **CoSTV: Accelerating Code Search with Two-Stage Paradigm and Vector Retrieval**（APSEC2024，CCF-C）
+5. **CoSTV: Accelerating Code Search with Two-Stage Paradigm and Vector Retrieval**（APSEC2024，CCF-C）<br>
    Dewu Zheng, Yanlin Wang, Wenqing Chen, Jiachi Chen, Zibin Zheng
-6. **RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening**（Internetware2024，CCF-C）
+6. **RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening**（Internetware2024，CCF-C）<br>
    Yifan Li, Ensheng Shi, Dewu Zheng, Kefeng Duan, Jiachi Chen, Yanlin Wang
